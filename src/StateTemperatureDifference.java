@@ -1,6 +1,12 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Otabek Aripdjanov
+ * This is a StateTemperatureDifference class
+ * Used to get avg temp per state
+ */
+
 public class StateTemperatureDifference {
     private String state;
     private List<Integer> temperatureDiffs = new ArrayList<Integer>();

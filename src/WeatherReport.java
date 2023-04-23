@@ -3,8 +3,9 @@ import java.io.FileNotFoundException;
 import java.util.*;
 
 /**
- * @author John Cigas
- * Put your name and date and description here.
+ * Otabek Aripdjanov
+ * This is a WeatherReport class
+ * that reads data from a file then sorts it by avg temp using List and TreeMap
  */
 public class WeatherReport {
 
